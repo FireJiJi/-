@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="I:\Android\android02180021-master\07 Menu\Menu_AS\MenuContext\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c577a9a02f8fbdd5a27f1c02f3741864ba85e821">
+        <dex dex="I:\Android\android02180021-master\07 Menu\Menu_AS\MenuContext\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_572fb622e9ed3566fcdc786cb578de88b38d3678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Android\android02180021-master\07 Menu\Menu_AS\MenuContext\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="I:\Android\android02180021-master\07 Menu\Menu_AS\MenuContext\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6c6ecdb799871fb638b9b12ba0928c1c16979251\classes.dex" />
+    </item>
+
+</items>

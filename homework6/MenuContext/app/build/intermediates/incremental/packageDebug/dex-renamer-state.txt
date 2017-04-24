@@ -1,0 +1,7 @@
+#Mon Apr 24 15:08:51 CST 2017
+base.0=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6c6ecdb799871fb638b9b12ba0928c1c16979251
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_572fb622e9ed3566fcdc786cb578de88b38d3678\\classes.dex
+base.1=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_572fb622e9ed3566fcdc786cb578de88b38d3678
+file.0=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6c6ecdb799871fb638b9b12ba0928c1c16979251\\classes.dex

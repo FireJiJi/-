@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Apr 24 15:08:50 CST 2017
+1.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=4
+1.set=ANDROID_RESOURCE
+3.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+0.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml

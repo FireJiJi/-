@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Apr 24 15:08:51 CST 2017
+2.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_572fb622e9ed3566fcdc786cb578de88b38d3678
+5.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=DEX
+4.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6c6ecdb799871fb638b9b12ba0928c1c16979251\\classes.dex
+1.set=DEX
+2.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_572fb622e9ed3566fcdc786cb578de88b38d3678\\classes.dex
+0.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6c6ecdb799871fb638b9b12ba0928c1c16979251
+4.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+0.set=ANDROID_RESOURCE

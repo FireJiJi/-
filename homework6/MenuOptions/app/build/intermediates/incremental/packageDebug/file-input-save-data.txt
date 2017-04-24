@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Apr 24 14:44:35 CST 2017
+2.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e0205bf76f36b7b04f6d6c256ad16ae1973be9a9\\classes.dex
+5.set=DEX
+3.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_344f8293f407e195085667cab855fb27edde6504
+count=6
+0.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e0205bf76f36b7b04f6d6c256ad16ae1973be9a9
+4.set=DEX
+1.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+1.set=ANDROID_RESOURCE
+2.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=I\:\\Android\\android02180021-master\\07 Menu\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_344f8293f407e195085667cab855fb27edde6504\\classes.dex
+0.set=ANDROID_RESOURCE
