@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri May 05 13:35:22 CST 2017
+2.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b8e6c890138c060ada21da703252547903e5c075
+6.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\gequ.mp3
+5.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cfa990f45ac57b71e6c6bcda5579b95484222e76\\classes.dex
+1.set=DEX
+2.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+6.set=ANDROID_RESOURCE
+0.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b8e6c890138c060ada21da703252547903e5c075\\classes.dex
+3.set=DEX
+1.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cfa990f45ac57b71e6c6bcda5579b95484222e76
+4.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.set=ANDROID_RESOURCE

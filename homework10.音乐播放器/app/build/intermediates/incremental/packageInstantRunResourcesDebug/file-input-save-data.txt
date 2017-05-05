@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri May 05 13:35:18 CST 2017
+1.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+4.set=ANDROID_RESOURCE
+2.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\gequ.mp3
+4.base=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_

@@ -1,0 +1,7 @@
+#Fri May 05 13:35:22 CST 2017
+base.0=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cfa990f45ac57b71e6c6bcda5579b95484222e76
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b8e6c890138c060ada21da703252547903e5c075\\classes.dex
+base.1=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b8e6c890138c060ada21da703252547903e5c075
+file.0=I\:\\Android\\android02180021-master\\11 service\\simplePlay1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cfa990f45ac57b71e6c6bcda5579b95484222e76\\classes.dex
