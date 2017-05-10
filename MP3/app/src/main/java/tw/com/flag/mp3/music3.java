@@ -10,22 +10,27 @@ import android.os.IBinder;
 import android.support.v4.media.MediaBrowserCompat;
 
 public class music3 extends Service {
-    private MediaPlayer player3;
+    public MediaPlayer player;
     @Override
-    public IBinder onBind(Intent intent ) {
-        return null;
-    }
+
     public void onStart(Intent intent, int startId){
         super.onStart(intent,startId);
-        player3 = MediaPlayer.create(this,R.raw.song4);
-        player3 .start();
+        player = MediaPlayer.create(getApplicationContext(), R.raw.song4);
+        //设置可以重复播放
+        player.setLooping(true);
+        super.onCreate();
+
+        player .start();
     }
 
     public void onDestroy() {
+        player.stop();
         super.onDestroy();
-        player3.stop();
+
     }
 
-
+    public IBinder onBind(Intent intent ) {
+        return null;
+    }
 
 }

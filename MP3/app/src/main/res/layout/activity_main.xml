@@ -1,56 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:id="@+id/widget42"
-              android:layout_width="fill_parent" android:layout_height="fill_parent"
-              android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
-
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/aaa"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical"
+              android:visibility="visible">
 
 
     <RadioGroup
         android:id="@+id/radioGroup"
-        android:orientation="vertical"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
-        <RadioButton android:id="@+id/rbt1"
-                     android:layout_width="wrap_content"
-                     android:layout_height="wrap_content"
-                     android:text="菊花台"
-                     android:textSize="50dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        style="@style/Widget.AppCompat.Toolbar.Button.Navigation"
+        >
+
+        <RadioButton
+            android:id="@+id/rbt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="横田真人 - Blue Sky Athletics (Bonus Track)"
+            android:background="@color/colorAccent"
             >
         </RadioButton>
-        <RadioButton android:id="@+id/rbt2"
-                     android:layout_width="wrap_content"
-                     android:layout_height="wrap_content"
-                     android:text="芒果台"
-                     android:textSize="50dp">
-        </RadioButton>
-        <RadioButton android:id="@+id/rbt3"
-                     android:layout_width="match_parent"
-                     android:layout_height="wrap_content"
-                     android:text="马桶台"
-                     android:textSize="50dp"
+
+        <RadioButton
+            android:id="@+id/rbt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TheFatRat - Don't Stop (TheFatRat Remix)"
+            android:background="@color/colorAccent"
             >
         </RadioButton>
-        <RadioButton android:id="@+id/rbt4"
-                     android:layout_width="wrap_content"
-                     android:layout_height="wrap_content"
-                     android:text="苹果台"
-                     android:textSize="50dp">
+
+        <RadioButton
+            android:id="@+id/rbt3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Two Steps From Hell - Star Sky - Instrumental"
+            android:background="@color/colorAccent"
+            >
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/rbt4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Acreix - Visions"
+            android:background="@color/colorAccent"
+            >
         </RadioButton>
     </RadioGroup>
 
-    <Button android:id="@+id/play"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="播放"
-            android:textSize="24sp"
-            android:textStyle="bold">
+    <Button
+        android:id="@+id/play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="播放"
+        style="@style/Theme.AppCompat.Light.DialogWhenLarge"
+        android:background="@color/colorAccent">
     </Button>
-    <Button android:id="@+id/stop"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
 
-            android:text="停止"
-            android:textSize="24sp"
-            android:textStyle="bold">
+    <Button
+        android:id="@+id/stop"
+        style="@style/Theme.AppCompat.Light.DialogWhenLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+
+        android:text="停止"
+
+        >
     </Button>
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:contentDescription=""/>
 </LinearLayout>

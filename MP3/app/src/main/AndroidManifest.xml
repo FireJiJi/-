@@ -15,53 +15,61 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".MainActivity">
+        </activity>
 
-         <service
-         android:name=".music"
-         android:enabled="true"
-         android:exported="true">
-         <intent-filter>
-         <action android:name="com.studio.android.START_AUDIO_SERVICE"/>
+        <service
+            android:name=".music"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.studio.android.START_AUDIO_SERVICE"/>
+
+                <uses-permission android:name="android.permission.SET_WALLPAPER"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:name=".music1">
+            <intent-filter>
+                <action android:name="com.studio.android1.START_AUDIO_SERVICE"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:name=".music2">
+            <intent-filter>
+                <action android:name="com.studio.android2.START_AUDIO_SERVICE"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:name=".music3">
+            <intent-filter>
+                <action android:name="com.studio.android3.START_AUDIO_SERVICE"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <!-- <service -->
+        <!-- android:name=".MyService" -->
+        <!-- android:enabled="true" -->
+        <!-- android:exported="true"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="com.studio.android.START_AUDIO_SERVICE"/> -->
 
 
-         <category android:name="android.intent.category.DEFAULT"/>
-         </intent-filter>
-         </service>
-         <service android:name=".music1" >
-         <intent-filter>
-         <action android:name="com.studio.android1.START_AUDIO_SERVICE"/>
-         <category android:name="android.intent.category.DEFAULT"/>
-         </intent-filter>
-         </service>
-         <service android:name=".music2">
-         <intent-filter>
-         <action android:name="com.studio.android2.START_AUDIO_SERVICE"/>
-         <category android:name="android.intent.category.DEFAULT"/>
-         </intent-filter>
-         </service>
-         <service android:name=".music3">
-         <intent-filter>
-         <action android:name="com.studio.android3.START_AUDIO_SERVICE"/>
-         <category android:name="android.intent.category.DEFAULT"/>
-         </intent-filter>
-         </service>
-        <!--<service-->
-            <!--android:name=".MyService"-->
-            <!--android:enabled="true"-->
-            <!--android:exported="true">-->
-            <!--<intent-filter>-->
-                <!--<action android:name="com.studio.android.START_AUDIO_SERVICE"/>-->
+        <!-- <category android:name="android.intent.category.DEFAULT"/> -->
+        <!-- </intent-filter> -->
+        <!-- </service> -->
 
-                <!--<category android:name="android.intent.category.DEFAULT"/>-->
-            <!--</intent-filter>-->
-        <!--</service>-->
     </application>
 
 </manifest>

@@ -8,22 +8,26 @@ import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.IBinder;
 public class music2 extends Service {
-    private MediaPlayer player2;
+    private MediaPlayer player;
     @Override
-    public IBinder onBind(Intent intent ) {
-        return null;
-    }
+
     public void onStart(Intent intent,int startId){
         super.onStart(intent,startId);
-        player2 = MediaPlayer.create(this,R.raw.song3);
-        player2 .start();
+        player = MediaPlayer.create(getApplicationContext(), R.raw.song3);
+        //设置可以重复播放
+        player .start();
+        player.setLooping(true);
+
     }
 
 
     public void onDestroy() {
+        player.stop();
         super.onDestroy();
-        player2.stop();
-    }
 
+    }
+    public IBinder onBind(Intent intent ) {
+        return null;
+    }
 
 }
